@@ -14,7 +14,7 @@ require (
 	github.com/creack/pty v1.1.20
 	github.com/gabriel-vasile/mimetype v1.4.3
 	github.com/gdamore/tcell/v2 v2.5.4
-	github.com/google/go-cmp v0.5.9
+	github.com/google/go-cmp v0.6.0
 	github.com/google/shlex v0.0.0-20191202100458-e7afc7fbc510
 	github.com/gorilla/websocket v1.4.2
 	github.com/hashicorp/go-multierror v1.1.1
