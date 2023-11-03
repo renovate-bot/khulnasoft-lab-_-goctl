@@ -13,7 +13,7 @@ require (
 	github.com/cpuguy83/go-md2man/v2 v2.0.3
 	github.com/creack/pty v1.1.20
 	github.com/gabriel-vasile/mimetype v1.4.3
-	github.com/gdamore/tcell/v2 v2.5.4
+	github.com/gdamore/tcell/v2 v2.6.0
 	github.com/google/go-cmp v0.5.9
 	github.com/google/shlex v0.0.0-20191202100458-e7afc7fbc510
 	github.com/gorilla/websocket v1.4.2
@@ -30,7 +30,7 @@ require (
 	github.com/microsoft/dev-tunnels v0.0.25
 	github.com/muhammadmuzzammil1998/jsonc v0.0.0-20201229145248-615b0916ca38
 	github.com/opentracing/opentracing-go v1.1.0
-	github.com/rivo/tview v0.0.0-20221029100920-c4a7e501810d
+	github.com/rivo/tview v0.0.0-20231102183219-1b91b8131c43
 	github.com/shurcooL/githubv4 v0.0.0-20230704064427-599ae7bbf278
 	github.com/spf13/cobra v1.6.1
 	github.com/spf13/pflag v1.0.5
